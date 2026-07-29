@@ -1,0 +1,25 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Packaging output: publish the executable through GitHub Releases, not Git
+build/
+dist/
+*.exe
+*.msi
+
+# Local tools and environment secrets
+.env
+.env.*
+*.log
+
+# Operating-system and editor files
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Downloaded Python installer
+python-*-amd64.exe
