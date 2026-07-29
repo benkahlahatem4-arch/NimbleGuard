@@ -36,4 +36,4 @@ py nimbleguard.py
 - Preserve the app's safety defaults: no automatic deletion, no silent network upload, and clear confirmations before destructive actions.
 - Explain how you tested the change on Windows.
 
-By contributing, you agree that your contribution may be distributed under the license selected for this repository in the future.
+By contributing, you agree that your contribution is licensed under GPL-3.0-only.

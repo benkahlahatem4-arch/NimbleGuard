@@ -74,4 +74,6 @@ For security-sensitive reports, follow [SECURITY.md](SECURITY.md) instead of ope
 
 ## License
 
-No open-source license has been selected yet. Until a license is added, normal copyright rules apply to the source code.
+NimbleGuard is licensed under the [GNU General Public License v3.0](LICENSE) (GPL-3.0-only).
+
+Copyright © 2026 benkahlahatem4-arch. Contributors keep copyright to their own contributions.

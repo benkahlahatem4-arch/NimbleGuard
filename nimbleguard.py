@@ -4,6 +4,9 @@
 بدلاً من الحذف التلقائي، يقيّم الملفات بمؤشرات قابلة للشرح ويترك القرار للمستخدم.
 """
 
+# SPDX-License-Identifier: GPL-3.0-only
+# Copyright (C) 2026 benkahlahatem4-arch
+
 from __future__ import annotations
 
 import hashlib
